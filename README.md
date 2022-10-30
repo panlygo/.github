@@ -1,5 +1,5 @@
 # Panlygo
-![Banner](images/panlygo-banner.png)
+![Banner](panlygo-banner.png)
 > NOTICE: This project is still under development and not usable yet.
 
 <a href="https://discord.gg/8jt7Y4dYG5">
