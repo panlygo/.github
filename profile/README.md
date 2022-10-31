@@ -9,6 +9,13 @@
 <img src="https://img.shields.io/badge/PANLYGO-WEBSITE-blue?style=for-the-badge&logo=appveyor" />
 </a>
 
-Panlygo, an open-source game server management panel built with GO and NextJS.
+Panlygo, an open-source game server management panel built with GO and ReactJS.
+
+<details>
+<summary>Screenshots</summary>
+<br>
+Join our Discord for sneak peeks 👀
+</details>
+
 
 #### Panlygo 2022.
