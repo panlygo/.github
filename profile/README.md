@@ -14,7 +14,9 @@ Panlygo, an open-source game server management panel built with GO and ReactJS.
 <details>
 <summary>Screenshots</summary>
 <br>
-Join our Discord for sneak peeks 👀
+<img src="login-screenshot.png" height="400" />
+<br>
+Join our Discord for sneak peeks and updates 😁
 </details>
 
 
