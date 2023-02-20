@@ -33,6 +33,7 @@ Join our Discord for sneak peeks and updates 😁
 | Store Page   | 🛠        |
 | Admin Panel   | 🛠        |
 | Server Creation   | 🛠        |
+| Docker Support   | ❓        |
 
 # Supported OS
 > NOTICE: Panlygo will work on any OS as long as the dependencies work.
